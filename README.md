@@ -6,6 +6,8 @@ This project was built just to learn :
 - How to combine two or more component
 - How to handle event
 - How to process data input
+- How to fetch data from API
+- How to using useEffect
 
 =========================================================================
 

@@ -10,7 +10,7 @@ function InputBox(props) {
     }
 
     const handleKeyDown = (val) =>{
-        if (val.key == 'Enter') {
+        if (val.key === 'Enter') {
             return addTask()
         }
     }
